@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665635065 source:c:\users\massi\documents\github\tpcorga\ejercicios\main.c
+	<stdio.h>
+	<stdlib.h>
+
